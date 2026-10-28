@@ -1,0 +1,91 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #FDF8F3;
+    color: #333333;
+}
+
+header {
+    background-color: #49634D;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8DCCB;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: #333333;
+    text-decoration: none;
+    margin: 10px;
+}
+
+section {
+    padding: 25px;
+    text-align: center;
+}
+
+h2 {
+    color: #49634D;
+}
+
+.button {
+    display: inline-block;
+    background-color: #49634D;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.product {
+    background-color: white;
+    margin: 15px auto;
+    padding: 15px;
+    max-width: 300px;
+    border: 1px solid #E8DCCB;
+    border-radius: 8px;
+}
+
+button {
+    background-color: #49634D;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form {
+    max-width: 350px;
+    margin: auto;
+    text-align: left;
+}
+
+label {
+    display: block;
+    margin-top: 12px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+
+textarea {
+    height: 100px;
+}
+
+footer {
+    background-color: #49634D;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
